@@ -20,6 +20,6 @@ This repository contains a data analysis project where I've used the MPG dataset
 I am a data analyst passionate about using Python in data analytics. This project showcases my ability to work with data using Pandas. If you have any questions or feedback, please feel free to reach out.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Thank you for exploring my data analysis project with the "mpg" dataset!
